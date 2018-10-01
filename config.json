@@ -1,0 +1,15 @@
+{
+    "title": "New New Pro",
+    "baseURL": "https:\/\/photos.newnewpro.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758904",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "newnewpro.com"
+    }
+}
