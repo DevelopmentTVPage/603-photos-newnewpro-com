@@ -1,0 +1,71 @@
+{
+    "pageNumber": 1,
+    "data": [
+        {
+            "id": "85322441",
+            "title": "Vlog 001-C\u00f3mo hacer un caf\u00e9 y una boda",
+            "date_created": "1476074280",
+            "loginId": "1758904",
+            "tags": "",
+            "description": "Un caf\u00e9? una boda? los invito a disfrutar un poco de lo que vivimos.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/z0J7cpXlxcc\/hqdefault.jpg",
+                "uploadDate": 1476074280,
+                "videoId": "z0J7cpXlxcc",
+                "title": "Vlog 001-C\u00f3mo hacer un caf\u00e9 y una boda",
+                "description": "Un caf\u00e9? una boda? los invito a disfrutar un poco de lo que vivimos.",
+                "author": "Roberto Hernandez Sosa",
+                "mediaDuration": 732,
+                "prettyDuration": "00:12:12",
+                "views": "711"
+            },
+            "parentId": "85322389",
+            "url": "\/coffee-test\/vlog-001-c\u00f3mo-hacer-un-caf\u00e9-y-una-boda\/85322389-85322441"
+        },
+        {
+            "id": "85322392",
+            "title": "C\u00f3mo hacer caf\u00e9 en una cafetera francesa de Mr. Coffee",
+            "date_created": "1486505422",
+            "loginId": "1758904",
+            "tags": "",
+            "description": "Aqu\u00ed una peque\u00f1a muestra de c\u00f3mo hacer caf\u00e9 r\u00e1pido en una cafetera de Mr. Coffee.",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/56935Qq0i2M\/hqdefault.jpg",
+                "uploadDate": 1486505422,
+                "videoId": "56935Qq0i2M",
+                "title": "C\u00f3mo hacer caf\u00e9 en una cafetera francesa de Mr. Coffee",
+                "description": "Aqu\u00ed una peque\u00f1a muestra de c\u00f3mo hacer caf\u00e9 r\u00e1pido en una cafetera de Mr. Coffee.",
+                "author": "SinFormatoMX",
+                "mediaDuration": 309,
+                "prettyDuration": "00:05:09",
+                "views": "6"
+            },
+            "parentId": "85322389",
+            "url": "\/coffee-test\/c\u00f3mo-hacer-caf\u00e9-en-una-cafetera-francesa-de-mr-coffee\/85322389-85322392"
+        },
+        {
+            "id": "85322391",
+            "title": "C\u00f3mo hacer caf\u00e9 turco + El postre favorito del turco - Bisk\u00fcvili Pasta | MEXICANA EN TURQUIA",
+            "date_created": "1486561821",
+            "loginId": "1758904",
+            "tags": "",
+            "description": "Selamlar! Hoy les mostramos c\u00f3mo hacemos el caf\u00e9 turco y un postre muy secillo pero rico \"Bisk\u00fcvili Pasta\", el favorito de mi esposo. Nuestra tienda en l\u00ednea de ...",
+            "asset": {
+                "type": "youtube",
+                "thumbnailUrl": "https:\/\/i.ytimg.com\/vi\/AcbOH-lFGEU\/hqdefault.jpg",
+                "uploadDate": 1486561821,
+                "videoId": "AcbOH-lFGEU",
+                "title": "C\u00f3mo hacer caf\u00e9 turco + El postre favorito del turco - Bisk\u00fcvili Pasta | MEXICANA EN TURQUIA",
+                "description": "Selamlar! Hoy les mostramos c\u00f3mo hacemos el caf\u00e9 turco y un postre muy secillo pero rico \"Bisk\u00fcvili Pasta\", el favorito de mi esposo. Nuestra tienda en l\u00ednea de ...",
+                "author": "Gris Aminah En Turqu\u00eda",
+                "mediaDuration": 836,
+                "prettyDuration": "00:13:56",
+                "views": "3913"
+            },
+            "parentId": "85322389",
+            "url": "\/coffee-test\/c\u00f3mo-hacer-caf\u00e9-turco-el-postre-favorito-del-turco-bisk\u00fcvili-pasta-mexicana-en-turquia\/85322389-85322391"
+        }
+    ]
+}
