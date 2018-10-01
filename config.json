@@ -10,6 +10,20 @@
         "loginId": "1758904",
         "subfolder": "",
         "firstpartycookies": true,
-        "cookiedomain": "newnewpro.com"
+        "cookiedomain": "newnewpro.com",
+        "hub": {
+            "sharing": {
+                "enabled": true,
+                "networks": [
+                    "facebook",
+                    "twitter",
+                    "pinterest",
+                    "google-plus",
+                    "linkedin",
+                    "email"
+                ],
+                "domain": "photos.newnewpro.com"
+            }
+        }
     }
 }
