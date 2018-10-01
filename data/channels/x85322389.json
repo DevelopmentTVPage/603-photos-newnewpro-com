@@ -1,0 +1,24 @@
+{
+    "title": "coffeeTest",
+    "description": "",
+    "referenceId": null,
+    "date_created": "1486664273",
+    "date_modified": "1486670974",
+    "tags": null,
+    "sourceId": null,
+    "duration": null,
+    "status": "approved",
+    "visibility": "1",
+    "video_type": null,
+    "id": "85322389",
+    "loginId": "1758904",
+    "entityType": "3",
+    "titleTextEncoded": "coffee-test",
+    "category": null,
+    "settings": {
+        "canvasImage": "default_canvas3.jpg",
+        "colorClass": "light",
+        "canvasType": "gallery"
+    },
+    "transcripts": null
+}
